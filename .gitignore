@@ -1,3 +1,3 @@
 /datasets
-/training
+*.ckpt
 /.ipynb_checkpoints

@@ -1,0 +1,8 @@
+neurons_per_layer:
+- 4096
+- 3072
+- 2048
+- 2048
+- 1024
+image_size: 64
+mask_size: 32
